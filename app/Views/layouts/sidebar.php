@@ -2,7 +2,7 @@
     <!--begin::Sidebar Brand-->
     <div class="sidebar-brand">
         <a href="<?= base_url('dashboard'); ?>" class="brand-link">
-            <span class="brand-text fw-light">YO WASSUP</span>
+            <span class="brand-text fw-light">MIDTERM TERMINAL EXAM</span>
         </a>
     </div>
     <!--end::Sidebar Brand-->

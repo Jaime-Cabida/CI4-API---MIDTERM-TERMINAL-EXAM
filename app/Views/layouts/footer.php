@@ -3,7 +3,7 @@
         <div class="row text-muted">
             <div class="col-6 text-start">
                 <p class="mb-0">
-                    <a class="text-muted" href="#" target="_blank"><strong>RALPH BENEDICT B. OLAVE</strong></a><?= date('Y'); ?> PRELIM TERMINAL EXAM <?= ucfirst(ENVIRONMENT) ?>
+                    <a class="text-muted" href="#" target="_blank"><strong>JAIME III CABIDA</strong></a><?= date('Y'); ?> PRELIM TERMINAL EXAM <?= ucfirst(ENVIRONMENT) ?>
                 </p>
             </div>
             <div class="col-6 text-end">
